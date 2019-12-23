@@ -1,2 +1,0 @@
-# vueApp
-Simple Vue app
